@@ -1,0 +1,44 @@
+//These are the words from GRE word lists which were hard to remember;
+//Use Tab to split the different parts 
+WordList 1
+Abrasive	adj.	研磨的
+Accentuate	v.	强调，重读
+Acerbic	adj.	尖酸的，刻薄的
+Acquiescence	n.	默许
+Acrimonious	adj.	尖酸刻薄的
+Acrimony	n.	尖刻，刻薄
+Adept	adj.	熟练的，擅长的
+Adorn	v.	装饰
+Adulation	n.	奉承，谄媚
+Adverse	adj.	有害的，不利的，敌对的，相反的
+Adversity	n.	逆境，不幸
+Affective	adj.	感情的
+Affinity	n.	相互吸引，密切关系
+Affront	v.	侮辱，冒犯
+Aggravate	v.	加重，恶化，激怒，使恼火
+Agitate	v.	鼓动，煽动，使不安，使焦虑
+Agrarian	adj.	土地的
+Akin	adj.	同族的，类似的
+Allegory	n.	寓言
+Allude	v.	暗指，影射，间接提到
+Allusion	n.	暗指，间接提到
+Allusive	adj.	暗指的，间接提到的
+Allure	v.	引诱，诱惑
+Altruism	n.	利他主义，无私
+Amalgam	n.	混合物
+Ambidextrous	adj.	十分灵巧的
+Ambiguous	adj.	含糊的
+Ambitious	adj.	有抱负的，雄心勃勃的
+Ambivalent	adj.	（对人或物）有矛盾看法的
+Ameliorate	v.	改善，改良
+Amiability	n.	亲切，友善
+Amicable	adj.	有好的
+Anaerobic_adj	adj.	厌氧的
+Anaerobic_n	n.	厌氧微生物
+Anatomical	adj.	解剖学的
+Animosity	n.	憎恶，仇恨
+Annex	v.	兼并，附加
+Antagonism	n.	对抗，敌对
+Antecedent_n	n.	前事，祖先
+Antecedent_adj	adj.	先行的
+Anterior	adj.	较早的，以前的
